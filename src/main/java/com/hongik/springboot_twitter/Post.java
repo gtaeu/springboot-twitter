@@ -31,4 +31,5 @@ public class Post{
     public void updateContent(String content) {
         this.content = content;
     }
+
 }
